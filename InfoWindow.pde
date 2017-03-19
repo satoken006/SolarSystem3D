@@ -1,5 +1,5 @@
 // ****** 情報ウィンドウに関するクラス ******
-
+/*
 class InfoWindow extends JFrame{
   Information info;
   
@@ -73,3 +73,4 @@ class InfoPanel extends Rectangle{
     text(msg, x + width/2, y + height/2);
   }
 } 
+*/

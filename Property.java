@@ -48,4 +48,3 @@ enum Property {
     img_file = _img_file;
   }
 }
-

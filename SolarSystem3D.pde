@@ -47,7 +47,7 @@ void mouseDragged(){
 }
 
 // ****** キー操作 ******
-// a : 公転軌道傾斜角を増加  d : 公転軌道傾斜角
+// a : 公転軌道傾斜角を増加  d : 公転軌道傾斜角を減少
 // UP, DOWN, LEFT, RIGHT : カメラ視点移動(マウスドラッグ操作により代替できます)   
 void keyPressed(){
   switch( key ){

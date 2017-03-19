@@ -163,4 +163,3 @@ class Planet extends PVector {
     return new PVector(posX, posY, posZ);
   }
 }
-
