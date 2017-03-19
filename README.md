@@ -1,2 +1,2 @@
 # SolarSystem3D
-![screenshot](screenshot.png)
+![screenshot](data/screenshot.png)
